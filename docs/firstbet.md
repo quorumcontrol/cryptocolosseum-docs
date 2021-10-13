@@ -3,10 +3,20 @@ title: Making your first bet in the Crypto Colosseum
 sidebar_label: Getting Started
 slug: '/firstbet'
 ---
+**Introduction**
 
 Crypto Colosseum is (in the beginning) a simple gambling game.
 
 Gladiators fight in tournaments.  You place your bet on which of the four gladiators will win the tournament.  Choose wisely, and you'll get a share of the prize purse.
+
+
+
+**Walkthrough Video**
+
+<a href="https://youtu.be/ApzcI_Q1d24" title="Link Title"><img src="https://res.cloudinary.com/dzsp4g9vd/image/upload/v1634138069/CryptoColosseum/CCOverlay.png" alt="Place Your First Bett" /></a>
+
+
+**Step By Step Guide**
 
 To get in on the action, you'll need to take the first step: Sign up.  Click on the orange "Sign in / Sign up" button in the upper-right hand corner to do so. Its easy, we promise.
 
